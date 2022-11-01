@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 I am a thrid-year PhD student in the CS department of Shanghai Jiao Tong University, advised by Prof.Guangtao Xue and Prof.Minglu Li. My research focuses on hardware reliability in modern data centers. I work towards analyzing the failure characteristics of massively-deployed storage devices (e.g., NVMe SSD), understanding and detecting novel failure modes (e.g., the fail-slow failure), and designing practical fault-tolerent systems.
-
-# Biography
