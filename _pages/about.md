@@ -13,7 +13,11 @@ My current research focuses on hardware reliability in modern data centers. I wo
 
 # Publications
 
+* [NVMe SSD Failures in the Field: the Fail-Stop and the Fail-Slow](https://www.usenix.org/conference/atc22/presentation/lu)`<br />`
+  ***Ruiming Lu***, *Erci Xu, Yiming Zhang, Zhaosheng Zhu, Mengtian Wang, Zongpeng Zhu, Guangtao Xue, Minglu Li, Jiesheng Wu.*`<br />`
+  **USENIX ATC 2022** &emsp; [[PDF](https://www.usenix.org/system/files/atc22-lu.pdf)] &emsp; [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_lu.pdf)] &emsp; [[Video](https://www.youtube.com/watch?v=wDS-CRyTDlA&feature=emb_imp_woyt)]
 
-* [NVMe SSD Failures in the Field: the Fail-Stop and the Fail-Slow](https://www.usenix.org/conference/atc22/presentation/lu)<br />
-	***Ruiming Lu***, *Erci Xu, Yiming Zhang, Zhaosheng Zhu, Mengtian Wang, Zongpeng Zhu, Guangtao Xue, Minglu Li, Jiesheng Wu.*<br />
-	**USENIX ATC 2022** &emsp; [[PDF](https://www.usenix.org/system/files/atc22-lu.pdf)] &emsp; [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_lu.pdf)] &emsp; [[Video](https://www.youtube.com/watch?v=wDS-CRyTDlA&feature=emb_imp_woyt)]
+
+
+
+<script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5w11lxyh39t&m=0&c=ff0000&cr1=ffffff&f=arial&l=33" async="async"></script>
