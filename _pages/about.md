@@ -21,3 +21,8 @@ My current research focuses on hardware reliability in modern data centers. I wo
 
 
 <script type="text/javascript" src="https://rf.revolvermaps.com/0/0/8.js?i=5w11lxyh39t&m=0&c=ff0000&cr1=ffffff&f=arial&l=33" async="async"></script>
+
+
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{site.name | default: site.title }}. Last modified: {{ site.time | date: "%Y-%m-%d %H:%M:%S" }} PT</div>
+
