@@ -20,8 +20,7 @@ My current research focuses on the reliability aspect of modern data centers. I 
 
 * [NVMe SSD Failures in the Field: the Fail-Stop and the Fail-Slow](https://www.usenix.org/conference/atc22/presentation/lu)<br />
   ***Ruiming Lu\****, *Erci Xu\*, Yiming Zhang, Zhaosheng Zhu, Mengtian Wang, Zongpeng Zhu, Guangtao Xue, Minglu Li, Jiesheng Wu.* (\*Co-first)<br />
-  **USENIX ATC 2022** &emsp; [[PDF](https://www.usenix.org/system/files/atc22-lu.pdf)] &emsp; [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_lu.pdf)] &emsp; [[Video](https://www.youtube.com/watch?v=wDS-CRyTDlA&feature=emb_imp_woyt)] &emsp; [[Dataset](https://tianchi.aliyun.com/dataset/128972)]
-  
+  **USENIX ATC 2022** &emsp; [[PDF](https://www.usenix.org/system/files/atc22-lu.pdf)] &emsp; [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_lu.pdf)] &emsp; [[Video](https://www.youtube.com/watch?v=wDS-CRyTDlA&feature=emb_imp_woyt)] &emsp; [[Dataset](https://tianchi.aliyun.com/dataset/128972)]<br />
   **Press**: [Shanghai Computer Society - Storage](https://mp.weixin.qq.com/s/-C6Koo_1ejhhlm3Fqm8Gyw) (in Chinese) &emsp; [ChinaSys](https://mp.weixin.qq.com/s/JQIAFaH05DmC9XAjEvc1iw) (in Chinese)
 
 # Journal and Magazine Articles
