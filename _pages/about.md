@@ -13,7 +13,8 @@ My current research focuses on the reliability aspect of modern data centers. I 
 
 # Publications
 
-* [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu) &emsp <span style="color:#B02318">[Invited to publish on USENIX ;login:]</span><br />
+* [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu)<br />
+  <span style="color:#B02318">**[Invited to publish on USENIX ;login:]**</span><br />
   ***Ruiming Lu***, *Erci Xu, Yiming Zhang, Fengyi Zhu, Zhaosheng Zhu, Mengtian Wang, Zongpeng Zhu, Guangtao Xue, Jiwu Shu, Minglu Li, Jiesheng Wu.*<br />
   **USENIX FAST 2023**
 
@@ -21,7 +22,7 @@ My current research focuses on the reliability aspect of modern data centers. I 
   ***Ruiming Lu***, *Erci Xu, Yiming Zhang, Zhaosheng Zhu, Mengtian Wang, Zongpeng Zhu, Guangtao Xue, Minglu Li, Jiesheng Wu.*<br />
   **USENIX ATC 2022** &emsp; [[PDF](https://www.usenix.org/system/files/atc22-lu.pdf)] &emsp; [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_lu.pdf)] &emsp; [[Video](https://www.youtube.com/watch?v=wDS-CRyTDlA&feature=emb_imp_woyt)] &emsp; [[Dataset](https://tianchi.aliyun.com/dataset/128972)]
   
-  **Press**: [Shanghai Computer Society - Storage](https://mp.weixin.qq.com/s/-C6Koo_1ejhhlm3Fqm8Gyw)(in Chinese) &emsp [ChinaSys](https://mp.weixin.qq.com/s/JQIAFaH05DmC9XAjEvc1iw)(in Chinese)
+  **Press**: [Shanghai Computer Society - Storage](https://mp.weixin.qq.com/s/-C6Koo_1ejhhlm3Fqm8Gyw) (in Chinese) &emsp; [ChinaSys](https://mp.weixin.qq.com/s/JQIAFaH05DmC9XAjEvc1iw) (in Chinese)
 
 # Journal and Magazine Articles
 
