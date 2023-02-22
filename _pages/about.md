@@ -14,6 +14,7 @@ My current research focuses on the reliability aspect of modern data centers. I 
 # Publications
 
 * [Perseus: A Fail-Slow Detection Framework for Cloud Storage Systems](https://www.usenix.org/conference/fast23/presentation/lu)<br />
+  <span style="color:#B02318">**[Best Paper Award]**</span><br />
   <span style="color:#B02318">**[Invited to appear in USENIX ;login:]**</span><br />
   ***Ruiming Lu\****, *Erci Xu\*, Yiming Zhang, Fengyi Zhu, Zhaosheng Zhu, Mengtian Wang, Zongpeng Zhu, Guangtao Xue, Jiwu Shu, Minglu Li, Jiesheng Wu.* (\*Co-first)<br />
   **USENIX FAST 2023**
